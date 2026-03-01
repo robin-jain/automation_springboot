@@ -9,10 +9,10 @@
 		<relativePath/>
 	</parent>
 	<groupId>com.testframework</groupId>
-	<artifactId>automation</artifactId>
+	<artifactId>automation-springboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Automation</name>
-	<description>Demo project for Spring Boot</description>
+	<name>automation-springboot</name>
+	<description>Spring Boot Automation Testing Framework with Selenium, Cucumber, and TestNG</description>
 	<url/>
 	<licenses>
 		<license/>
