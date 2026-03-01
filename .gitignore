@@ -7,3 +7,8 @@ JavaPrograms110
 XBasic
 xcollections
 programs
+# Ignore all files inside screenshots
+screenshots/*
+
+# But keep the folder
+!screenshots/.gitkeep
