@@ -1,0 +1,15 @@
+{
+  "TC_RATE_001": {
+    "index": "SOFR",
+    "tenor": "3M",
+    "value": 5.35,
+    "effectiveDate": "2026-02-01"
+  },
+
+  "TC_RATE_002": {
+    "index": "LIBOR",
+    "tenor": "6M",
+    "value": 4.75,
+    "effectiveDate": "2026-02-01"
+  }
+}

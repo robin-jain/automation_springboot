@@ -1,0 +1,21 @@
+{
+  "TC_TRADE_001": {
+    "rateType": "SOFR",
+    "rate": 5.25,
+    "currency": "USD",
+    "tenor": "3M",
+    "notional": 1000000,
+    "counterParty": "JP_MORGAN",
+    "book": "RATES_DESK"
+  },
+
+  "TC_TRADE_002": {
+    "rateType": "LIBOR",
+    "rate": 4.8,
+    "currency": "EUR",
+    "tenor": "6M",
+    "notional": 500000,
+    "counterParty": "CITI",
+    "book": "FX_DESK"
+  }
+}
