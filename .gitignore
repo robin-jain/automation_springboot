@@ -1,3 +1,8 @@
 # Exclude all dot files except .gitignore
 .*
 !.gitignore
+corePrograms
+javaConcept
+JavaPrograms110
+XBasic
+xcollections
