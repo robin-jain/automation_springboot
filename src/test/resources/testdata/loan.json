@@ -1,0 +1,19 @@
+{
+  "TC_LOAN_001": {
+    "loanType": "HOME",
+    "amount": 2500000,
+    "interestType": "FLOATING",
+    "rateIndex": "SOFR",
+    "tenureYears": 20,
+    "customerType": "INDIVIDUAL"
+  },
+
+  "TC_LOAN_002": {
+    "loanType": "CAR",
+    "amount": 800000,
+    "interestType": "FIXED",
+    "rateIndex": "NA",
+    "tenureYears": 5,
+    "customerType": "INDIVIDUAL"
+  }
+}

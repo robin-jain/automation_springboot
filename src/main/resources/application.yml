@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: Automation
+
+app:
+  environment:
+    name: MAIN
+  featureX:
+    enabled: true
+  build:
+    version: 1.0.0-test-MAIN
+    version2: 1.0.0-test-MAIN
+
+external:
+  api:
+    base-url: http://localhost:1010_MAIN
+
+user:
+  service:
+    url: https://jsonplaceholder.typicode.comMAIN
+
+browser:
+  name: THISISMAILYML
+  headless: false
+
+base:
+  url: https://example.com
+#  -Denv=qa

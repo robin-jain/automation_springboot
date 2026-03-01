@@ -1,0 +1,30 @@
+spring:
+  application:
+    name: Automation
+
+app:
+  environment:
+    name: MAIN-TEST
+  featureX:
+    enabled: true
+  build:
+    version: 1.0.0-test-MAIN-TEST
+    version2: 1.0.0-test-MAIN-TEST
+
+external:
+  api:
+    base-url: http://localhost:1010
+
+user:
+  service:
+    url: https://jsonplaceholder.typicode.com
+
+browser:
+  name: chrome
+  headless: false
+
+base:
+  url: https://practicetestautomation.com/practice-test-login/
+
+
+env: qa
